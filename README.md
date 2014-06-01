@@ -1,4 +1,4 @@
-Knapsack
-========
+Facility-Location
+=================
 
-Knapsack heuristic solver
+Facility Location Solver
